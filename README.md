@@ -26,7 +26,7 @@ Criei uma calculadora para praticar lógica de programação e colocar em práti
 
 - Utilizar variáveis para armazenar números e resultados.
 - Receber informações do usuário com `input()`.
-- Converter entradas em números usando `int()`.
+- Converter entradas em números usando `float()`.
 - Utilizar `match/case` para selecionar a operação matemática.
 - Trabalhar com `if`, `else` e `case _` para controlar as decisões do programa.
 - Utilizar o operador `None` para representar a ausência de um resultado válido.
@@ -39,7 +39,7 @@ Criei uma calculadora para praticar lógica de programação e colocar em práti
 1. Instale o Python no computador.
 2. Baixe ou clone este repositório.
 3. Abra a pasta do projeto no VS Code.
-4. Execute o arquivo `calculadora.py`.
+4. Execute o arquivo `Projeto_Calculadora.py`.
 5. Digite os números e a operação desejada.
 
 ## 📚 Próximos passos
